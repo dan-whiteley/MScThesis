@@ -1,0 +1,91 @@
+\begin{thebibliography}{}
+
+\bibitem[Alon, 2007]{Alon2007}
+Alon, U. (2007).
+\newblock {\em {An Introduction to Systems Biology: Design Principles of
+  Biological Circuits}}, volume~10.
+
+\bibitem[Bak and Sneppen, 1993]{Bak1993}
+Bak, P. and Sneppen, K. (1993).
+\newblock {Punctuated equilibrium and criticality in a simple model of
+  evolution}.
+\newblock {\em Physical Review Letters}, 71(24):4083--4086.
+
+\bibitem[Bornholdt, 2008]{Bornholdt2008}
+Bornholdt, S. (2008).
+\newblock {Boolean network models of cellular regulation: Prospects and
+  limitations}.
+\newblock {\em Journal of the Royal Society Interface}, 5(SUPPL. 1).
+
+\bibitem[Giacomantonio and Goodhill, 2010]{Giacomantonio2010}
+Giacomantonio, C.~E. and Goodhill, G.~J. (2010).
+\newblock {A boolean model of the gene regulatory network underlying mammalian
+  cortical area development}.
+\newblock {\em PLoS Computational Biology}, 6(9).
+
+\bibitem[Hallinan et~al., 2004]{Hallinan2004}
+Hallinan, J., Wiles, J., and Marker, G. (2004).
+\newblock {Asynchronous Dynamics of an Artificial Genetic Regulatory Network}.
+\newblock {\em Artificial life IX: Proceedings of the ninth international
+  conference on the simulation and synthesis of living systems.}, pages
+  399--403.
+
+\bibitem[Harvey and Bossomaier, 1997]{Harvey1997}
+Harvey, I. and Bossomaier, T. (1997).
+\newblock {Time Out of Joint: Attractors in Asynchronous Random Boolean
+  Networks}.
+\newblock {\em Proceedings of the Fourth European Conference on Artificial Life
+  (ECAL97).}, 11(1949):67--75.
+
+\bibitem[Hinton and Nowlan, 1987]{Hinton1987}
+Hinton, G.~E. and Nowlan, S.~J. (1987).
+\newblock {How Learning Can Guide Evolution}.
+\newblock {\em Complex Systems}, 1:495--502.
+
+\bibitem[Jaeger and Monk, 2014]{Jaeger2014}
+Jaeger, J. and Monk, N. (2014).
+\newblock {Bioattractors: dynamical systems theory and the evolution of
+  regulatory processes}.
+\newblock {\em The Journal of Physiology}.
+
+\bibitem[Karbowski and Ermentrout, 2004]{Karbowski2004}
+Karbowski, J. and Ermentrout, G.~B. (2004).
+\newblock {Model of the early development of thalamo-cortical connections and
+  area patterning via signaling molecules}.
+\newblock {\em Journal of Computational Neuroscience}, 17(3):347--363.
+
+\bibitem[Kauffman, 1995]{Kauffman1995}
+Kauffman, S. (1995).
+\newblock {\em {At Home in the Universe: The Search for the Laws of
+  Self-Organization and Complexity}}.
+
+\bibitem[Kauffman, 1969]{Kauffman1969}
+Kauffman, S.~A. (1969).
+\newblock {Metabolic stability and epigenesis in randomly constructed genetic
+  nets}.
+\newblock {\em Journal of Theoretical Biology}.
+
+\bibitem[Koonin, 2011]{Koonin2011}
+Koonin, E.~V. (2011).
+\newblock {\em {The Logic of Chance: The Nature and Origin of Biological
+  Evolution}}.
+
+\bibitem[Krubitzer and Dooley, 2013]{Krubitzer2013}
+Krubitzer, L. and Dooley, J.~C. (2013).
+\newblock {Cortical plasticity within and across lifetimes: how can development
+  inform us about phenotypic transformations?}
+\newblock {\em Frontiers in Human Neuroscience}, 7.
+
+\bibitem[Krubitzer and Seelke, 2012]{Krubitzer2012}
+Krubitzer, L. and Seelke, A. (2012).
+\newblock {Cortical evolution in mammals: The bane and beauty of phenotypic
+  variability}.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 109(SUPPL.1):10647--10654.
+
+\bibitem[Waddington, 2012]{Waddington2012}
+Waddington, C.~H. (2012).
+\newblock {The epigenotype. 1942.}
+\newblock {\em International journal of epidemiology}, 41(1):10--13.
+
+\end{thebibliography}

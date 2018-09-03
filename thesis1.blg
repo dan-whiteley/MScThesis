@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis1.aux
+The style file: apalike.bst
+Database file #1: references.bib
+Warning--can't use both volume and number fields in Alon2007
+Warning--empty publisher in Alon2007
+Warning--empty publisher in Kauffman1995
+Warning--empty publisher in Koonin2011
+You've used 15 entries,
+            1935 wiz_defined-function locations,
+            582 strings with 6339 characters,
+and the built_in function-call counts, 5257 in all, are:
+= -- 520
+> -- 164
+< -- 16
++ -- 50
+- -- 50
+* -- 431
+:= -- 920
+add.period$ -- 42
+call.type$ -- 15
+change.case$ -- 97
+chr.to.int$ -- 15
+cite$ -- 19
+duplicate$ -- 214
+empty$ -- 388
+format.name$ -- 81
+if$ -- 1023
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 18
+newline$ -- 75
+num.names$ -- 45
+pop$ -- 78
+preamble$ -- 1
+purify$ -- 100
+quote$ -- 0
+skip$ -- 178
+stack$ -- 0
+substring$ -- 368
+swap$ -- 26
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 84
+warning$ -- 4
+while$ -- 45
+width$ -- 0
+write$ -- 187
+(There were 4 warnings)
